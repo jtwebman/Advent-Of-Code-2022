@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode-2022-day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
